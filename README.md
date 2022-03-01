@@ -1,4 +1,4 @@
-- 👋 Hi, I’m duhan
+- 👋 Hi, I’m Duhan
 - 👀 I'm interested in the world of development.
 - 🌱 I'm currently learning react js...
 - 💞️ I'm looking for a collaborator in a development company either as a Web or Desktop developer
